@@ -1,0 +1,7 @@
+[2026-04-21T21:15:05Z] === AST ITERATION 1 START | repo=apple/ml-cvnets sha=0c0f7982 ===
+[2026-04-21T21:15:05Z] [iter=1] PHASE START: ast repo=apple/ml-cvnets sha=0c0f7982
+[2026-04-21T21:15:05Z] [iter=1] Building AST aggregate chunks
+[2026-04-21T21:17:30Z] [iter=1] AST chunks built count=1 triples=1870291
+[2026-04-21T21:17:30Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/0c0f79822f0ae6670319b5befccb7be24adca16e/.complete
+[2026-04-21T21:17:30Z] [iter=1] PHASE END: ast elapsed_s=144 elapsed_min=2.4
+[2026-04-21T21:17:30Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
